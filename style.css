@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 100px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  text-align: center;
+}
+.form-group {
+  margin-bottom: 30px;
+}
+.h1 {
+  text-align: center;
+}
+.nav {
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  line-height: 60px;
+  z-index: 100;
+}
+.logo {
+  font-size: 25px;
+  font-weight: 900;
+}
+.right-links {
+  padding: 0 10px;
+}
+
+.email {
+  width: 50px;
+}
+#log-out {
+  text-align: right;
+}
